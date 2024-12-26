@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://img.shields.io/badge/Java-20232a.svg?style=for-the-badge&logo=java&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/SPRING BOOT-20232a.svg?style=for-the-badge&logo=springboot&logoColor=#6DB33F" />
+<img src="https://img.shields.io/badge/SPRING BOOT-#6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=#6DB33F" />
