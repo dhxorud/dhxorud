@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 ![js](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![js](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
 ![js](https://img.shields.io/badge/MyBatis-2389f2?style=for-the-badge)
-![js](https://img.shields.io/badge/OAuth2.0-ffffff?style=for-the-badge)
+![js](https://img.shields.io/badge/OAuth2.0-000000?style=for-the-badge)
 
