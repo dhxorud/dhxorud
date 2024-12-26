@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://img.shields.io/badge/Java-20232a.svg?style=for-the-badge&logo=java&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/SPRING%20BOOT-6DB33F.svg?style=for-the-badge&logo=SpringBoot&logoColor=6DB33F" />
+<img src="https://img.shields.io/badge/SPRING%20BOOT-6DB33F.svg?style=for-the-badge&logo=SpringBoot&logoColor=63433F" />
 
