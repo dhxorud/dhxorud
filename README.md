@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 ![js](https://img.shields.io/badge/SPRING%20BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![js](https://img.shields.io/badge/SPRING%20DATA%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![js](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
-![js](https://img.shields.io/badge/MyBatis-005F0F?style=for-the-badge)
+![js](https://img.shields.io/badge/MyBatis-2389f2?style=for-the-badge)
 
