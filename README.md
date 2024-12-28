@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 ![js](https://img.shields.io/badge/SQLD-0931d2?style=for-the-badge)
 
 #### ⁉️ Interested
-![js](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=Jsonwebtoken&logoColor=white)
+![js](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSONWebTokens&logoColor=white)
 ![js](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=DOCKER&logoColor=white)
 
