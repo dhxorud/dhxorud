@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to-nl-OTK's%20Github&fontSize=90)
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to-nl-My%20Github&fontSize=90)
+# 🔭 Skills
 
 <!--
 **dhxorud/dhxorud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
