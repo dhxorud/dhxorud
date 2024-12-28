@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 ![js](https://img.shields.io/badge/OAuth2.0-000000?style=for-the-badge)
 
 #### ✏️ Credentials
-![js](https://img.shields.io/badge/정보처리기사-000000?style=for-the-badge)
+![js](https://img.shields.io/badge/정보처리기사-222333?style=for-the-badge)
 ![js](https://img.shields.io/badge/SQLD-0931d2?style=for-the-badge)
 
 #### ⁉️ Interested
-![js](https://img.shields.io/badge/JWT-n8372h?style=for-the-badge&logo=JWT&logoColor=white)
-![js](https://img.shields.io/badge/DOCKER-84h723?style=for-the-badge&logo=DOCKER&logoColor=white)
+![js](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JWT&logoColor=white)
+![js](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=DOCKER&logoColor=white)
 
