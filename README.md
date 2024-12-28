@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ![js](https://img.shields.io/badge/OAuth2.0-000000?style=for-the-badge)
 
 #### ✏️ Credentials
-![js](https://img.shields.io/badge/정보처리기사-222333?style=for-the-badge)
+![js](https://img.shields.io/badge/정보처리기사-v22c33?style=for-the-badge)
 ![js](https://img.shields.io/badge/SQLD-0931d2?style=for-the-badge)
 
 #### ⁉️ Interested
